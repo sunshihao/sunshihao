@@ -12,7 +12,7 @@
 
 <div>
   <a href="https://week.dhc.ink"><img src="https://img.shields.io/badge/Weekly-见闻周刊-8c36db?style=flat&logo=rss&logoColor=white" /></a>&emsp;
-  <a href="https://sunshihao.github.io"><img src="https://img.shields.io/badge/Blog-sunshihao.github.io-2ea44f?style=flat&logo=githubpages&logoColor=white" /></a>&emsp;
+  <a href="https://dhc.ink"><img src="https://img.shields.io/badge/Blog-dhc.ink-2ea44f?style=flat&logo=hexo&logoColor=white" /></a>&emsp;
   <a href="mailto:4sh945@gmail.com"><img src="https://img.shields.io/badge/Email-4sh945@gmail.com-c14438?style=flat&logo=gmail&logoColor=white" /></a>&emsp;
   <img src="https://komarev.com/ghpvc/?username=sunshihao&label=Views&color=orange&style=flat" alt="profile views" />
 </div>
@@ -25,6 +25,31 @@
 - 近两年重心在 **AI Agent / RAG**（hono + LangGraph + LlamaIndex + Qdrant）与 **Tauri 桌面端**
 - 维护一份每周更新的「见闻周刊」，把当周值得读的资讯、观点、工具整理成可回查的合集
 - 相信一件事：**工具的价值在于让人少做重复的事**。「urgently explore the unknown」
+
+## 🏡 向往的生活
+
+<div align="center"><i>《面朝大海，春暖花开》</i><br/><sub>—— 海子</sub></div>
+
+> 从明天起，做一个幸福的人。<br/>
+> 喂马，劈柴，周游世界。<br/>
+> 从明天起，关心粮食和蔬菜。<br/>
+> 我有一所房子，面朝大海，春暖花开。
+>
+> 从明天起，和每一个亲人通信，<br/>
+> 告诉他们我的幸福。<br/>
+> 那幸福的闪电告诉我的，<br/>
+> 我将告诉每一个人。
+>
+> 给每一条河、每一座山，取一个温暖的名字。
+>
+> 陌生人，我也为你祝福：<br/>
+> 愿你有一个灿烂的前程，<br/>
+> 愿你有情人终成眷属，<br/>
+> 愿你在尘世获得幸福。
+>
+> 我也愿，面朝大海，春暖花开。
+
+<div align="center"><sub>写代码也是种地：把种子埋进去，等它长出来。</sub></div>
 
 ## 🛠 技术栈
 
@@ -69,7 +94,7 @@
 | 项目 | 说明 | 栈 |
 |---|---|---|
 | [见闻周刊](https://week.dhc.ink) | 每周一期：政治 / 财经 / 科技 / AI / 市场，每条可回到原文 | Astro · GitHub Pages |
-| [sunshihao.github.io](https://github.com/sunshihao/sunshihao.github.io) | 博客与周刊站点源码，自动构建发布 | Astro · Actions |
+| [dhc.ink](https://dhc.ink) | 博客主页（源码：sunshihao.github.io），自动构建发布 | Astro · Actions |
 | [mono](https://github.com/sunshihao/mono) | AI Agent 实验场：工具调用 + 检索增强 | hono · LangGraph · LlamaIndex · Qdrant |
 | [tauripc](https://github.com/sunshihao/tauripc) · [tauriTray](https://github.com/sunshihao/tauriTray) · [tauriNote](https://github.com/sunshihao/tauriNote) | Tauri 桌面端：进程通信、托盘、笔记 | Rust · Vue3 |
 | [aiscript](https://github.com/sunshihao/aiscript) | AI 脚本生成过程的记录 | JavaScript |
@@ -83,7 +108,8 @@
 ## 📮 找我
 
 - 邮箱：**4sh945@gmail.com**
-- 周刊 / 博客：https://week.dhc.ink
+- 博客：https://dhc.ink
+- 周刊：https://week.dhc.ink
 - 坐标：China
 
 <div align="center"><sub>「在未知里摸索，把想法做成东西」</sub></div>
