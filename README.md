@@ -11,7 +11,7 @@
 <div>&nbsp;</div>
 
 <div>
-  <a href="https://week.dhc.ink"><img src="https://img.shields.io/badge/Weekly-见闻周刊-8c36db?style=flat&logo=rss&logoColor=white" /></a>&emsp;
+  <a href="https://weekly.dhc.ink"><img src="https://img.shields.io/badge/Weekly-见闻周刊-8c36db?style=flat&logo=rss&logoColor=white" /></a>&emsp;
   <a href="https://dhc.ink"><img src="https://img.shields.io/badge/Blog-dhc.ink-2ea44f?style=flat&logo=hexo&logoColor=white" /></a>&emsp;
   <a href="mailto:4sh945@gmail.com"><img src="https://img.shields.io/badge/Email-4sh945@gmail.com-c14438?style=flat&logo=gmail&logoColor=white" /></a>&emsp;
   <img src="https://komarev.com/ghpvc/?username=sunshihao&label=Views&color=orange&style=flat" alt="profile views" />
@@ -91,7 +91,7 @@
 
 | 项目 | 说明 | 栈 |
 |---|---|---|
-| [见闻周刊](https://week.dhc.ink) | 每周一期：政治 / 财经 / 科技 / AI / 市场，每条可回到原文 | Astro · GitHub Pages |
+| [见闻周刊](https://weekly.dhc.ink) | 每周一期：政治 / 财经 / 科技 / AI / 市场，每条可回到原文 | Astro · GitHub Pages |
 | [dhc.ink](https://dhc.ink) | 博客主页（源码：sunshihao.github.io），自动构建发布 | Astro · Actions |
 | [mono](https://github.com/sunshihao/mono) | AI Agent 实验场：工具调用 + 检索增强 | hono · LangGraph · LlamaIndex · Qdrant |
 | [tauripc](https://github.com/sunshihao/tauripc) · [tauriTray](https://github.com/sunshihao/tauriTray) · [tauriNote](https://github.com/sunshihao/tauriNote) | Tauri 桌面端：进程通信、托盘、笔记 | Rust · Vue3 |
@@ -101,12 +101,12 @@
 ## ✍️ 周刊
 
 > 每周把值得读的东西留下来 —— 不追热点，只留下能回查的证据链。
-> 最新一期：[week.dhc.ink](https://week.dhc.ink)
+> 最新一期：[weekly.dhc.ink](https://weekly.dhc.ink)
 
 ## 📮 找我
 
 - 邮箱：**4sh945@gmail.com**
 - 博客：https://dhc.ink
-- 周刊：https://week.dhc.ink
+- 周刊：https://weekly.dhc.ink
 - 坐标：China
 
